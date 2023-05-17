@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "909036889620",
+    "project_id": "red-social-data-base",
+    "storage_bucket": "red-social-data-base.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909036889620:android:ef2106dc44c6a777546901",
+        "android_client_info": {
+          "package_name": "com.optic.redsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909036889620-41ijtipangabeq76h2kq58d6svbaf2di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Xa0zh3iOL5qIt6ZvnlRB-2tR4NJkEp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909036889620-41ijtipangabeq76h2kq58d6svbaf2di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
